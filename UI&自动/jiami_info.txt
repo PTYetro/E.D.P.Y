@@ -1,0 +1,17 @@
+运行次数: 1
+文件名: ajin.pth
+文件路径: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/UI&自动/jia_input/ajin.pth
+初始密码: 123
+二次加密后的密码: 40:4<8109(605829
+key: 123.0
+加密后文件的输出路径: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/UI&自动/jia_output\ajin.niubi
+--------------------------
+运行次数: 2
+文件名: ajin.pth
+文件路径: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/UI&自动/jia_input/ajin.pth
+初始密码: 123
+二次加密后的密码: 4'0:4<8109(605839
+加密时间: 202409060343
+key: 123.0
+加密后文件的输出路径: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/UI&自动/jia_output\ajin.niubi
+--------------------------

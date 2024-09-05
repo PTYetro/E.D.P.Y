@@ -1,0 +1,16 @@
+开始加密: 时间: 2024-09-06 03:18:20.770758, 初始密码: 123, key: 123.0
+--------------------------
+加密完成: 原文件: C:/Users/TCTrolong/Desktop/jiami/input/suannai40k.pth, 加密后文件: C:/Users/TCTrolong/Desktop/jiami/output\suannai40k.niubi
+参数 weight 已加密 - 类型: <class 'dict'>
+参数 config 已加密 - 类型: <class 'list'>
+参数 sr 已加密 - 类型: <class 'str'>
+参数 f0 已加密 - 类型: <class 'int'>
+参数 version 已加密 - 类型: <class 'str'>
+开始加密: 时间: 2024-09-06 03:26:13.857446, 初始密码: 111, key: 222.0
+---------------------------------------------------
+加密完成: 原文件: C:/Users/TCTrolong/Desktop/jiami/input/suannai40k.pth, 加密后文件: C:/Users/TCTrolong/Desktop/jiami/output\suannai40k.niubi
+参数 weight 已加密 - 类型: <class 'dict'>
+参数 config 已加密 - 类型: <class 'list'>
+参数 sr 已加密 - 类型: <class 'str'>
+参数 f0 已加密 - 类型: <class 'int'>
+参数 version 已加密 - 类型: <class 'str'>

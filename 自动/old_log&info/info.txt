@@ -1,0 +1,54 @@
+运行次数: 1
+文件名: suannai40k.pth
+文件路径: C:/Users/TCTrolong/Desktop/jiami/input/suannai40k.pth
+初始密码: 123
+二次加密后的密码: 4U054<8109(605385
+加密时间: 202409060116
+key: 123.0
+加密后文件的输出路径: C:/Users/TCTrolong/Desktop/jiami/output\suannai40k.niubi
+--------------------------
+运行次数: 2
+文件名: suannai40k.pth
+文件路径: C:/Users/TCTrolong/Desktop/jiami/input/suannai40k.pth
+初始密码: 123
+二次加密后的密码: 4a054<8109(605397
+加密时间: 202409060122
+key: 123.0
+加密后文件的输出路径: C:/Users/TCTrolong/Desktop/jiami/output\suannai40k.niubi
+--------------------------
+运行次数: 3
+文件名: suannai40k.pth
+文件路径: C:/Users/TCTrolong/Desktop/jiami/input/suannai40k.pth
+初始密码: 111
+二次加密后的密码: 4_044<8109(605295
+加密时间: 202409060224
+key: 1.1
+加密后文件的输出路径: C:/Users/TCTrolong/Desktop/jiami/output\suannai40k.niubi
+--------------------------
+运行次数: 4
+文件名: suannai40k.pth
+文件路径: C:/Users/TCTrolong/Desktop/jiami/input/suannai40k.pth
+初始密码: 123
+二次加密后的密码: 4084<8109(605619
+加密时间: 202409060233
+key: 123.0
+加密后文件的输出路径: C:/Users/TCTrolong/Desktop/jiami/output\suannai40k.niubi
+--------------------------
+运行次数: 5
+文件名: suannai40k.pth
+文件路径: C:/Users/TCTrolong/Desktop/jiami/input/suannai40k.pth
+初始密码: 123
+二次加密后的密码: 49084<8109(605657
+加密时间: 202409060252
+key: 123.0
+加密后文件的输出路径: C:/Users/TCTrolong/Desktop/jiami/output\suannai40k.niubi
+--------------------------
+运行次数: 6
+文件名: suannai40k.pth
+文件路径: C:/Users/TCTrolong/Desktop/jiami/input/suannai40k.pth
+初始密码: 123
+二次加密后的密码: 4;094<8109(605759
+加密时间: 202409060303
+key: 123.0
+加密后文件的输出路径: C:/Users/TCTrolong/Desktop/jiami/output\suannai40k.niubi
+--------------------------

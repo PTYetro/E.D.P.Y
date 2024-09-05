@@ -1,0 +1,52 @@
+--------------------------
+开始加密: 时间: 2024-09-06 01:16:35.481783, 初始密码: 123, key: 123.0
+跳过非张量参数: weight - 类型: <class 'dict'>
+跳过非张量参数: config - 类型: <class 'list'>
+跳过非张量参数: sr - 类型: <class 'str'>
+跳过非张量参数: f0 - 类型: <class 'int'>
+跳过非张量参数: version - 类型: <class 'str'>
+加密完成: 原文件: C:/Users/TCTrolong/Desktop/jiami/input/suannai40k.pth, 加密后文件: C:/Users/TCTrolong/Desktop/jiami/output\suannai40k.niubi
+开始加密: 时间: 2024-09-06 01:22:08.046459, 初始密码: 123, key: 123.0
+--------------------------
+加密完成: 原文件: C:/Users/TCTrolong/Desktop/jiami/input/suannai40k.pth, 加密后文件: C:/Users/TCTrolong/Desktop/jiami/output\suannai40k.niubi
+参数 weight 已加密 - 类型: <class 'dict'>
+参数 config 已加密 - 类型: <class 'list'>
+参数 sr 已加密 - 类型: <class 'str'>
+参数 f0 已加密 - 类型: <class 'int'>
+参数 version 已加密 - 类型: <class 'str'>
+开始加密: 时间: 2024-09-06 02:24:37.407750, 初始密码: 111, key: 1.1
+--------------------------
+加密完成: 原文件: C:/Users/TCTrolong/Desktop/jiami/input/suannai40k.pth, 加密后文件: C:/Users/TCTrolong/Desktop/jiami/output\suannai40k.niubi
+参数 weight 已加密 - 类型: <class 'dict'>
+参数 config 已加密 - 类型: <class 'list'>
+参数 sr 已加密 - 类型: <class 'str'>
+参数 f0 已加密 - 类型: <class 'int'>
+参数 version 已加密 - 类型: <class 'str'>
+开始加密: 时间: 2024-09-06 02:33:52.903367, 初始密码: 123, key: 123.0
+--------------------------
+加密完成: 原文件: C:/Users/TCTrolong/Desktop/jiami/input/suannai40k.pth, 加密后文件: C:/Users/TCTrolong/Desktop/jiami/output\suannai40k.niubi
+参数 weight 已加密 - 类型: <class 'dict'>
+参数 config 已加密 - 类型: <class 'list'>
+参数 sr 已加密 - 类型: <class 'str'>
+参数 f0 已加密 - 类型: <class 'int'>
+参数 version 已加密 - 类型: <class 'str'>
+开始加密: 时间: 2024-09-06 02:52:26.025971, 初始密码: 123, key: 123.0
+--------------------------
+加密完成: 原文件: C:/Users/TCTrolong/Desktop/jiami/input/suannai40k.pth, 加密后文件: C:/Users/TCTrolong/Desktop/jiami/output\suannai40k.niubi
+参数 weight 已加密 - 类型: <class 'dict'>
+参数 config 已加密 - 类型: <class 'list'>
+参数 sr 已加密 - 类型: <class 'str'>
+参数 f0 已加密 - 类型: <class 'int'>
+参数 version 已加密 - 类型: <class 'str'>
+开始加密: 时间: 2024-09-06 02:58:18.498620, 初始密码: 123, key: 123.0
+--------------------------
+开始加密: 时间: 2024-09-06 02:58:50.766920, 初始密码: 123, key: 123.0
+--------------------------
+开始加密: 时间: 2024-09-06 03:03:50.609357, 初始密码: 123, key: 123.0
+--------------------------
+加密完成: 原文件: C:/Users/TCTrolong/Desktop/jiami/input/suannai40k.pth, 加密后文件: C:/Users/TCTrolong/Desktop/jiami/output\suannai40k.niubi
+参数 weight 已加密 - 类型: <class 'dict'>
+参数 config 已加密 - 类型: <class 'list'>
+参数 sr 已加密 - 类型: <class 'str'>
+参数 f0 已加密 - 类型: <class 'int'>
+参数 version 已加密 - 类型: <class 'str'>

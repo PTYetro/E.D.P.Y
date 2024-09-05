@@ -1,0 +1,12 @@
+------------------------------------------------
+开始解密: 时间: 2024-09-06 04:05:45.616242, 初始密码: 123, key: 123.0
+计算出的二次加密密码: 4'0:4<8109(605839
+解密完成!
+原文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/UI&自动/jia_output/ajin.niubi
+解密后文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/UI&自动/jie_output/666.pth
+参数 weight 已解密 - 类型: <class 'bytes'>
+参数 config 已解密 - 类型: <class 'bytes'>
+参数 sr 已解密 - 类型: <class 'bytes'>
+参数 f0 已解密 - 类型: <class 'bytes'>
+参数 version 已解密 - 类型: <class 'bytes'>
+参数 info 已解密 - 类型: <class 'bytes'>

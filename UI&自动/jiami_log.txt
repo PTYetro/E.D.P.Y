@@ -1,0 +1,18 @@
+开始加密: 时间: 2024-09-06 03:38:43.731071, 初始密码: 123, key: 123.0
+---------------------------------------------------
+加密完成: 原文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/UI&自动/jia_input/ajin.pth, 加密后文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/UI&自动/jia_output\ajin.niubi
+参数 weight 已加密 - 类型: <class 'dict'>
+参数 config 已加密 - 类型: <class 'list'>
+参数 sr 已加密 - 类型: <class 'str'>
+参数 f0 已加密 - 类型: <class 'int'>
+参数 version 已加密 - 类型: <class 'str'>
+参数 info 已加密 - 类型: <class 'str'>
+开始加密: 时间: 2024-09-06 03:43:37.207650, 初始密码: 123, key: 123.0
+---------------------------------------------------
+加密完成: 原文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/UI&自动/jia_input/ajin.pth, 加密后文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/UI&自动/jia_output\ajin.niubi
+参数 weight 已加密 - 类型: <class 'dict'>
+参数 config 已加密 - 类型: <class 'list'>
+参数 sr 已加密 - 类型: <class 'str'>
+参数 f0 已加密 - 类型: <class 'int'>
+参数 version 已加密 - 类型: <class 'str'>
+参数 info 已加密 - 类型: <class 'str'>

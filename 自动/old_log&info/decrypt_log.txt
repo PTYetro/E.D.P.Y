@@ -1,0 +1,120 @@
+开始解密: 时间: 2024-09-06 01:29:09.715127, 初始密码: 123, key: 123.0
+--------------------------
+计算出的二次加密密码: 4a054<8109(605397
+解密完成: 原文件: C:/Users/TCTrolong/Desktop/jiemi/input/suannai40k.niubi, 解密后文件: C:/Users/TCTrolong/Desktop/jiemi/output/asuannai40k_jiemi.pth
+参数 weight 已解密 - 类型: <class 'bytes'>
+参数 config 已解密 - 类型: <class 'bytes'>
+参数 sr 已解密 - 类型: <class 'bytes'>
+参数 f0 已解密 - 类型: <class 'bytes'>
+参数 version 已解密 - 类型: <class 'bytes'>
+开始解密: 时间: 2024-09-06 02:02:04.307267, 初始密码: 123, key: 123.0
+--------------------------
+计算出的二次加密密码: 4a054<8109(605397
+解密完成: 原文件: C:/Users/TCTrolong/Desktop/jiemi/input/suannai40k.niubi, 解密后文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/自动/debug_output/suannai40k_jiemi.pth
+参数 weight 已解密 - 类型: <class 'bytes'>
+参数 config 已解密 - 类型: <class 'bytes'>
+参数 sr 已解密 - 类型: <class 'bytes'>
+参数 f0 已解密 - 类型: <class 'bytes'>
+参数 version 已解密 - 类型: <class 'bytes'>
+--------------------------
+开始解密: 时间: 2024-09-06 02:04:41.076766, 初始密码: 123, key: 123.0
+计算出的二次加密密码: 1	4'8U5399
+解密失败，原因：Invalid padding bytes.
+解密失败，错误信息：Invalid padding bytes.
+--------------------------
+开始解密: 时间: 2024-09-06 02:05:28.983107, 初始密码: 123, key: 123.0
+计算出的二次加密密码: 4a054<8109(605397
+解密完成: 原文件: C:/Users/TCTrolong/Desktop/jiemi/input/suannai40k.niubi, 解密后文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/自动/debug_output/suannai40k_jiemi.pth
+参数 weight 已解密 - 类型: <class 'bytes'>
+参数 config 已解密 - 类型: <class 'bytes'>
+参数 sr 已解密 - 类型: <class 'bytes'>
+参数 f0 已解密 - 类型: <class 'bytes'>
+参数 version 已解密 - 类型: <class 'bytes'>
+--------------------------
+开始解密: 时间: 2024-09-06 02:24:00.156987, 初始密码: 123, key: 1.0
+计算出的二次加密密码: 4a054<8109(605397
+解密完成: 原文件: C:/Users/TCTrolong/Desktop/jiemi/input/suannai40k.niubi, 解密后文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/自动/debug_output/suannai40k_jiemi.pth
+参数 weight 已解密 - 类型: <class 'bytes'>
+参数 config 已解密 - 类型: <class 'bytes'>
+参数 sr 已解密 - 类型: <class 'bytes'>
+参数 f0 已解密 - 类型: <class 'bytes'>
+参数 version 已解密 - 类型: <class 'bytes'>
+--------------------------
+开始解密: 时间: 2024-09-06 02:26:16.668606, 初始密码: 666, key: 11.0
+计算出的二次加密密码: 4H0I4I8101(737372
+解密失败，原因：Invalid padding bytes.
+解密失败，错误信息：Invalid padding bytes.
+--------------------------
+开始解密: 时间: 2024-09-06 02:26:47.233050, 初始密码: 111, key: 2.2
+计算出的二次加密密码: 4_044<8109(605295
+解密完成: 原文件: C:/Users/TCTrolong/Desktop/jiami/output/suannai40k.niubi, 解密后文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/自动/debug_output/suannai40k_jiemi.pth
+参数 weight 已解密 - 类型: <class 'bytes'>
+参数 config 已解密 - 类型: <class 'bytes'>
+参数 sr 已解密 - 类型: <class 'bytes'>
+参数 f0 已解密 - 类型: <class 'bytes'>
+参数 version 已解密 - 类型: <class 'bytes'>
+--------------------------
+开始解密: 时间: 2024-09-06 02:35:19.947482, 初始密码: 123, key: 123.0
+计算出的二次加密密码: 4084<8109(605619
+解密完成: 原文件: C:/Users/TCTrolong/Desktop/jiami/output/suannai40k.niubi, 解密后文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/自动/debug_output/suannai40k_jiemi.pth
+参数 weight 已解密 - 类型: <class 'bytes'>
+参数 config 已解密 - 类型: <class 'bytes'>
+参数 sr 已解密 - 类型: <class 'bytes'>
+参数 f0 已解密 - 类型: <class 'bytes'>
+参数 version 已解密 - 类型: <class 'bytes'>
+--------------------------
+开始解密: 时间: 2024-09-06 02:36:41.778997, 初始密码: 123, key: 111.0
+计算出的二次加密密码: 4084<8109(605619
+解密完成: 原文件: C:/Users/TCTrolong/Desktop/jiami/output/suannai40k.niubi, 解密后文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/自动/debug_output/suannai40k_jiemi.pth
+参数 weight 已解密 - 类型: <class 'bytes'>
+参数 config 已解密 - 类型: <class 'bytes'>
+参数 sr 已解密 - 类型: <class 'bytes'>
+参数 f0 已解密 - 类型: <class 'bytes'>
+参数 version 已解密 - 类型: <class 'bytes'>
+--------------------------
+开始解密: 时间: 2024-09-06 02:53:30.233521, 初始密码: 123, key: 23.0
+计算出的二次加密密码: 49084<8109(605657
+解密完成: 原文件: C:/Users/TCTrolong/Desktop/jiami/output/suannai40k.niubi, 解密后文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/自动/debug_output/suannai40k_jiemi.pth
+参数 weight 已解密 - 类型: <class 'bytes'>
+参数 config 已解密 - 类型: <class 'bytes'>
+参数 sr 已解密 - 类型: <class 'bytes'>
+参数 f0 已解密 - 类型: <class 'bytes'>
+参数 version 已解密 - 类型: <class 'bytes'>
+--------------------------
+开始解密: 时间: 2024-09-06 03:07:31.682745, 初始密码: 123, key: 11.0
+计算出的二次加密密码: 4;094<8109(605759
+--------------------------
+开始解密: 时间: 2024-09-06 03:08:02.682867, 初始密码: 123, key: 123.0
+计算出的二次加密密码: 4;094<8109(605759
+解密完成: 原文件: C:/Users/TCTrolong/Desktop/jiami/output/suannai40k.niubi, 解密后文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/自动/debug_output/suannai40k_jiemi.pth
+参数 weight 已解密 - 类型: <class 'bytes'>
+参数 config 已解密 - 类型: <class 'bytes'>
+参数 sr 已解密 - 类型: <class 'bytes'>
+参数 f0 已解密 - 类型: <class 'bytes'>
+参数 version 已解密 - 类型: <class 'bytes'>
+--------------------------
+开始解密: 时间: 2024-09-06 03:11:25.526609, 初始密码: 123, key: 123.0
+计算出的二次加密密码: 4)044:83501(585241
+解密失败，原因：Invalid padding bytes.
+解密失败，错误信息：Invalid padding bytes.
+--------------------------
+开始解密: 时间: 2024-09-06 03:12:16.916426, 初始密码: 123, key: 111.0
+计算出的二次加密密码: 4;094<8109(605759
+--------------------------
+开始解密: 时间: 2024-09-06 03:15:37.486478, 初始密码: 123, key: 111.0
+计算出的二次加密密码: 4;094<8109(605759
+秘钥错误，解密失败。
+--------------------------
+开始解密: 时间: 2024-09-06 03:15:52.833633, 初始密码: 123, key: 123.0
+计算出的二次加密密码: 1	4'8U5399
+解密失败，原因：Invalid padding bytes.
+解密失败，错误信息：Invalid padding bytes.
+--------------------------
+开始解密: 时间: 2024-09-06 03:16:32.263838, 初始密码: 123, key: 123.0
+计算出的二次加密密码: 4;094<8109(605759
+解密完成: 原文件: C:/Users/TCTrolong/Desktop/jiami/output/suannai40k.niubi, 解密后文件: C:/Users/TCTrolong/Desktop/工作/项目/11rvc开发项目/模型加密&解密/自动/debug_output/suannai40k_jiemi.pth
+参数 weight 已解密 - 类型: <class 'bytes'>
+参数 config 已解密 - 类型: <class 'bytes'>
+参数 sr 已解密 - 类型: <class 'bytes'>
+参数 f0 已解密 - 类型: <class 'bytes'>
+参数 version 已解密 - 类型: <class 'bytes'>

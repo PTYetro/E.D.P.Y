@@ -1,16 +1,3 @@
-*`Encryption and Decryption of Pytorch model files by YetroTech`*
-
-需要安装cryptography以进行AES对称加密
-终端运行以下：
-pip install cryptography
-
-若未安装PyTorch库，需要进行安装
-终端运行以下：
-pip install torch
-
-！！注意！！
-若需要传入文件绝对路径，必须使用正斜杠/    ,     而不是反斜杠\
-
 一共四层加密
 1.管理员在上传模型的时候输入对该模型加密的初始密码
 2.密码加密程序对初始密码根据模型上传的时间进行二次加密，得到二次密码
@@ -33,6 +20,6 @@ char类字符组[\,^,A,H,c,X,1]（用char_group命名），将char_group分别�
 加密最终结果，用second_encryption命名。
 
 三次加密思路：
-MD5->base64（暂未实现，有待更新）
+MD5->base64
 
 使用第三次加密之后的密码对模型文件进行AES对称加密。
